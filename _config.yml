@@ -6,7 +6,9 @@ description: >
 copyright: Untitled
 sass:
   sass_dir: assets/sass
-url: http://localhost:4000
+#url: http://localhost:4000
+url: '/'
+baseurl: '/strata-jekyll'
 disqus_shortname: stratajekylldemo
 facebook_username:
 twitter_username: "#"
